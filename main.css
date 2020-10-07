@@ -1,0 +1,161 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center ;
+    text-decoration: underline;
+    padding: 0px;
+    font-size: 40px;
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+h4 {
+    text-decoration: underline;
+    font-weight: 1000;
+}
+#synopsis {
+    font-size: 20px;
+    text-align: left;
+}
+
+#lonelyimage {
+    display: block ;
+    padding: 70px;
+    margin: 0 auto
+    
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#introductionline {
+    text-decoration: underline;
+    text-align: center;
+}
+
+.contact {
+    padding-bottom: 20%;
+}
+
+#navbar {
+     list-style-type: none;
+     margin: 10px ;
+     width: 220px;
+     display: block;
+     padding: 30px;
+
+}
+
+a:link {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+
+.container {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column-reverse 
+    
+}
+
+
+
+.box {
+    color: white;
+    font-size: 100px;
+    font-family:'Courier New', Courier, monospace, sans-serif;
+    text-align: center;
+    padding: 15px;
+    
+}
+
+.box1 { background:  rgba(128, 128, 128, 0.349); }
+.box2 { background:  rgba(128, 128, 128, 0.404); }
+.box3 { background:  rgba(128, 128, 128, 0.623); }
+.box4 { background:  rgba(128, 128, 128, 0.884); }
+.box5 { background:  rgba(0, 0, 0, 0.534); }
+.box6 { background:  rgba(0, 0, 0, 0.61); }
+.box7 { background:  rgba(0, 0, 0, 0.781); }
+.box8 { background: rgba(0, 0, 0, 0.822); }
+.box9 { background: rgba(0, 0, 0, 0.884); }
+.box10 { background: black; }
+
+#number {
+    text-decoration: underline;
+}
+
+#lonelyimage {
+    width: 80%;
+    height: auto;
+    
+}
+
+#killing {
+    width: 45%;
+    height: auto;
+}
+
+#past {
+    width: 45%;
+    height: auto;
+}
+
+#dahlia {
+    width: 45%;
+    height: auto;
+}
+
+#gilda {
+    width: 45%;
+    height: auto;
+}
+
+#title {
+    text-decoration: none;
+}
+
+#character {
+    margin-left: 40%;
+    margin-right: 20%;
+}
+#dialogue {
+    margin-right: 20%;
+    margin-left: 20%;
+    text-size-adjust: auto;
+    
+}
+
+#killing {
+    padding-top: 10px;
+
+}
+
+#past{
+    padding-top: 50px;
+}
+
+#past_text {
+    text-align: right;
+    margin-right: 10%;
+}
+
+#gilda_text {
+    text-align: right;
+    margin-right: 30%;
+}
